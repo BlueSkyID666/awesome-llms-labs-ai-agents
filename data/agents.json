@@ -1377,5 +1377,17 @@
       "sandboxes"
     ],
     "description": "AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms."
+  },
+  {
+    "id": "orkas",
+    "name": "Orkas",
+    "url": "https://orkas.ai/agents/commander/?source=gh_aw_agents",
+    "github": "Orkas-AI/Orkas",
+    "license": "MIT",
+    "status": "active",
+    "categories": [
+      "sandboxes"
+    ],
+    "description": "Local-first desktop AI workspace whose Commander coordinates specialist agents, installed coding CLI sessions, and project tools."
   }
 ]
